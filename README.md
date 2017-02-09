@@ -49,4 +49,6 @@ string transcodedContent =
   transcoder.Transcode("https://github.com/marek-stoj/NReadability", out success);
 ```
 
+大名鼎鼎的arc90实验室的Readability，该算法已经商业化实现了firefox,chrome插件，及flipboard，并且已经集成进了safari浏览器。
+
 [1]: http://lab.arc90.com/experiments/readability/
